@@ -1,0 +1,23 @@
+{
+  "dashboard": {
+    "purchaseAmount": 920,
+    "website": "www.chriscole.com"
+  },
+  "courses":[{
+    "title": "beginners investments",
+    "price": 15,
+    "copies": 50,
+    "details": {"website": "www.chriscole.com"}
+  },
+    {
+      "title": "options 101",
+    "price": 50,
+    "copies": 5
+    },{
+    "title": "technicals",
+    "price": 20,
+    "copies": 25
+    }
+  ]
+
+}
